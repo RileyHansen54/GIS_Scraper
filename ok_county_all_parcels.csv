@@ -1,0 +1,203 @@
+record,parcel,r_account,city,bid,error
+1,1024-12-702-1015,R127021015,CHOCTAW,470,Could not find input field
+2,1026-19-795-2005,R197952005,CHOCTAW,445,Could not find input field
+3,1026-19-795-2070,R197952070,CHOCTAW,585,Could not find input field
+4,1070-12-328-1250,R123281250,OKC,790,Could not find input field
+5,1101-14-654-0400,R146540400,OKC,410,Could not find input field
+6,1215-19-466-9125,R194669125,CHOCTAW,525,Could not find input field
+7,1246-19-689-2500,R196892500,CHOCTAW,400,Could not find input field
+8,1246-19-689-5700,R196895700,CHOCTAW,405,Could not find input field
+9,1246-19-689-6060,R196896060,CHOCTAW,410,Could not find input field
+10,1275-12-552-1100,R125521100,OKC,425,Could not find input field
+11,1335-14-431-6000,R144316000,OKC,835,Could not find input field
+12,1336-14-431-3060,R144313060,OKC,555,Could not find input field
+13,1408-15-018-2020,R150182020,MIDWEST CITY,460,Could not find input field
+14,1414-15-020-4270,R150204270,MIDWEST CITY,445,Could not find input field
+15,1420-15-083-6095,R150836095,DEL CITY,630,Could not find input field
+16,1422-15-094-2145,R150942145,DEL CITY,380,Could not find input field
+17,1428-15-127-1879,R151271879,DEL CITY,290,Could not find input field
+18,1428-15-127-6601,R151276601,DEL CITY,885,Could not find input field
+19,1428-15-394-0200,R153940200,DEL CITY,410,Could not find input field
+20,1430-15-391-8195,R153918195,DEL CITY,455,Could not find input field
+21,1431-15-345-5225,R153455225,DEL CITY,430,Could not find input field
+22,1434-15-019-2320,R150192320,MIDWEST CITY,440,Could not find input field
+23,1470-15-316-3000,R153163000,DEL CITY,520,Could not find input field
+24,1471-15-320-3735,R153203735,DEL CITY,280,Could not find input field
+25,1475-11-530-1025,R115301025,OKC,350,Could not find input field
+26,1476-11-328-0850,R113280850,OKC,440,Could not find input field
+27,1476-13-166-2080,R131662080,OKC,390,Could not find input field
+28,1526-12-796-1470,R127961470,OKC,430,Could not find input field
+29,1527-12-973-2560,R129732560,OKC,1220,Could not find input field
+30,1603-14-303-5350,R143035350,OKC,450,Could not find input field
+31,1619-13-178-2985,R131782985,OKC,490,Could not find input field
+32,1622-10-314-7275,R103147275,OKC,505,Could not find input field
+33,1630-10-842-5285,R108425285,OKC,615,Could not find input field
+34,1633-09-651-5585,R096515585,OKC,535,Could not find input field
+35,1633-09-679-8280,R096798280,OKC,510,Could not find input field
+36,1637-09-735-3490,R097353490,OKC,435,Could not find input field
+37,1639-09-398-0340,R093980340,OKC,535,Could not find input field
+38,1640-09-637-2000,R096372000,OKC,320,Could not find input field
+39,1640-09-833-3205,R098333205,OKC,250,Could not find input field
+40,1640-09-833-3250,R098333250,OKC,290,Could not find input field
+41,1640-09-833-9350,R098339350,OKC,440,Could not find input field
+42,1644-14-994-1355,R149941355,OKC,290,Could not find input field
+43,1658-07-358-2850,R073582850,OKC,505,Could not find input field
+44,1658-07-358-8200,R073588200,OKC,330,Could not find input field
+45,1659-09-455-2410,R094552410,OKC,255,Could not find input field
+46,1659-09-455-2420,R094552420,OKC,250,Could not find input field
+47,1665-10-402-7600,R104027600,OKC,410,Could not find input field
+48,1665-10-402-8400,R104028400,OKC,265,Could not find input field
+49,1665-10-402-8900,R104028900,OKC,355,Could not find input field
+50,1665-10-556-5125,R105565125,OKC,260,Could not find input field
+51,1683-13-206-9395,R132069395,OKC,755,Could not find input field
+52,1687-08-634-4960,R086344960,OKC,585,Could not find input field
+53,1688-08-598-6000,R085986000,OKC,485,Could not find input field
+54,1705-08-603-1310,R086031310,OKC,245,Could not find input field
+55,1707-10-535-2810,R105352810,OKC,925,Could not find input field
+56,1709-10-974-1760,R109741760,OKC,485,Could not find input field
+57,1709-10-985-3805,R109853805,OKC,510,Could not find input field
+58,1713-07-446-0403,R074460403,OKC,400,Could not find input field
+59,1713-07-446-6200,R074466200,OKC,240,Could not find input field
+60,1713-20-926-1110,R209261110,OKC,525,Could not find input field
+61,1719-11-337-5010,R113375010,OKC,245,Could not find input field
+62,1723-14-839-2035,R148392035,OKC,380,Could not find input field
+63,1802-07-169-9245,R071699245,OKC,17840,Could not find input field
+64,1824-14-927-3360,R149273360,OKC,620,Could not find input field
+65,1845-08-673-0460,R086730460,OKC,485,Could not find input field
+66,1845-08-673-1316,R086731316,OKC,535,Could not find input field
+67,1845-08-673-1318,R086731318,OKC,350,Could not find input field
+68,1845-08-673-2140,R086732140,OKC,425,Could not find input field
+69,1845-08-673-4580,R086734580,OKC,445,Could not find input field
+70,1848-08-842-1805,R088421805,OKC,240,Could not find input field
+71,1870-12-066-2595,R120662595,OKC,345,Could not find input field
+72,2101-19-808-9100,R198089100,HARRAH,480,Could not find input field
+73,2104-19-826-1075,R198261075,HARRAH,440,Could not find input field
+74,2262-14-477-5515,R144775515,OKC,420,Could not find input field
+75,2283-19-583-1031,R195831031,NICOMA PARK,515,Could not find input field
+76,2313-19-582-3180,R195823180,NICOMA PARK,535,Could not find input field
+77,2489-19-921-1850,R199211850,SPENCER,550,Could not find input field
+78,2491-19-141-6810,R191416810,SPENCER,410,Could not find input field
+79,2493-19-915-0565,R199150565,SPENCER,405,Could not find input field
+80,2494-19-966-3745,R199663745,SPENCER,370,Could not find input field
+81,2503-16-855-3700,R168553700,MIDWEST CITY,420,Could not find input field
+82,2520-13-181-3000,R131813000,OKC,510,Could not find input field
+83,2520-15-532-4575,R155324575,OKC,570,Could not find input field
+84,2526-20-816-1125,R208161125,DEL CITY,460,Could not find input field
+85,2535-15-039-1005,R150391005,MIDWEST CITY,520,Could not find input field
+86,2542-20-231-1230,R202311230,OKC,485,Could not find input field
+87,2637-14-979-0815,R149790815,OKC,690,Could not find input field
+88,2637-14-979-1000,R149791000,OKC,530,Could not find input field
+89,2642-14-855-1010,R148551010,OKC,375,Could not find input field
+90,2643-14-980-2060,R149802060,OKC,380,Could not find input field
+91,2653-11-625-0100,R116250100,OKC,465,Could not find input field
+92,2658-08-687-7878,R086877878,OKC,635,Could not find input field
+93,2669-08-840-1480,R088401480,OKC,475,Could not find input field
+94,2672-08-927-5000,R089275000,OKC,210,Could not find input field
+95,2673-05-375-8400,R053758400,OKC,445,Could not find input field
+96,2675-06-718-1600,R067181600,OKC,1375,Could not find input field
+97,2679-05-235-2105,R052352105,OKC,480,Could not find input field
+98,2680-05-145-0700,R051450700,OKC,610,Could not find input field
+99,2680-05-145-1410,R051451410,OKC,535,Could not find input field
+100,2680-05-147-3000,R051473000,OKC,265,Could not find input field
+101,2680-05-147-3100,R051473100,OKC,535,Could not find input field
+102,2680-05-147-3500,R051473500,OKC,310,Could not find input field
+103,2680-05-147-4225,R051474225,OKC,430,Could not find input field
+104,2680-05-147-4260,R051474260,OKC,460,Could not find input field
+105,2680-05-147-4270,R051474270,OKC,470,Could not find input field
+106,2684-04-852-0705,R048520705,OKC,370,Could not find input field
+107,2684-04-900-4600,R049004600,OKC,390,Could not find input field
+108,2691-03-491-8010,R034918010,OKC,485,Could not find input field
+109,2691-13-336-5600,R133365600,OKC,620,Could not find input field
+110,2695-07-372-0150,R073720150,OKC,245,Could not find input field
+111,2695-13-338-7800,R133387800,OKC,495,Could not find input field
+112,2697-08-974-9142,R089749142,OKC,245,Could not find input field
+113,2700-03-003-7130,R030037130,OKC,245,Could not find input field
+114,2700-03-003-7137,R030037137,OKC,245,Could not find input field
+115,2701-03-296-0105,R032960105,OKC,405,Could not find input field
+116,2704-03-083-8800,R030838800,OKC,460,Could not find input field
+117,2704-03-083-9880,R030839880,OKC,560,Could not find input field
+118,2709-04-388-1862,R043881862,OKC,350,Could not find input field
+119,2714-06-166-2970,R061662970,OKC,255,Could not find input field
+120,2714-06-190-8325,R061908325,OKC,505,Could not find input field
+121,2717-06-374-6485,R063746485,OKC,385,Could not find input field
+122,2719-13-350-7315,R133507315,OKC,460,Could not find input field
+123,2722-07-185-2455,R071852455,OKC,380,Could not find input field
+124,2722-07-193-0290,R071930290,OKC,250,Could not find input field
+125,2722-07-193-0430,R071930430,OKC,355,Could not find input field
+126,2722-07-193-0470,R071930470,OKC,460,Could not find input field
+127,2723-07-209-0126,R072090126,OKC,450,Could not find input field
+128,2723-07-209-2700,R072092700,OKC,475,Could not find input field
+129,2725-01-592-9250,R015929250,OKC,245,Could not find input field
+130,2806-14-263-1140,R142631140,OKC,250,Could not find input field
+131,2810-14-255-1607,R142551607,OKC,245,Could not find input field
+132,2810-14-255-1617,R142551617,OKC,245,Could not find input field
+133,2810-14-255-1627,R142551627,OKC,245,Could not find input field
+134,2810-14-255-1637,R142551637,OKC,245,Could not find input field
+135,2810-14-255-1647,R142551647,OKC,245,Could not find input field
+136,2811-18-846-1015,R188461015,WARR ACRES,515,Could not find input field
+137,2812-18-846-2080,R188462080,WARR ACRES,570,Could not find input field
+138,2816-14-015-1944,R140151944,OKC,2510,Could not find input field
+139,2834-18-908-0500,R189080500,WARR ACRES,240,Could not find input field
+140,2834-18-908-4500,R189084500,WARR ACRES,240,Could not find input field
+141,2835-17-285-2000,R172852000,BETHANY,255,Could not find input field
+142,2835-17-376-8200,R173768200,BETHANY,435,Could not find input field
+143,2836-17-595-1030,R175951030,BETHANY,490,Could not find input field
+144,2836-18-432-1126,R184321126,WARR ACRES,440,Could not find input field
+145,2842-14-289-1015,R142891015,OKC,295,Could not find input field
+146,2852-07-278-1095,R072781095,OKC,250,Could not find input field
+147,2857-18-862-1280,R188621280,WARR ACRES,490,Could not find input field
+148,2857-18-897-1155,R188971155,WARR ACRES,255,Could not find input field
+149,2857-18-897-1305,R188971305,WARR ACRES,240,Could not find input field
+150,2874-17-239-1326,R172391326,BETHANY,445,Could not find input field
+151,2879-17-390-1085,R173901085,BETHANY,500,Could not find input field
+152,2879-17-390-1520,R173901520,BETHANY,245,Could not find input field
+153,2885-14-544-5670,R145445670,OKC,510,Could not find input field
+154,2892-14-610-1025,R146101025,OKC,245,Could not find input field
+155,2898-06-446-6000,R064466000,OKC,465,Could not find input field
+156,2914-14-798-2430,R147982430,OKC,1515,Could not find input field
+157,2915-12-018-1010,R120181010,OKC,530,Could not find input field
+158,2928-14-804-1515,R148041515,OKC,485,Could not find input field
+159,3421-18-308-1000,R183081000,EDMOND,625,Could not find input field
+160,3421-18-308-1080,R183081080,EDMOND,455,Could not find input field
+161,3613-14-452-0824,R144520824,OKC,370,Could not find input field
+162,3633-12-890-1235,R128901235,OKC,435,Could not find input field
+163,3633-20-225-1295,R202251295,OKC,750,Could not find input field
+164,3635-14-103-4877,R141034877,OKC,410,Could not find input field
+165,3645-18-257-1375,R182571375,EDMOND,375,Could not find input field
+166,3653-12-283-1265,R122831265,OKC,420,Could not find input field
+167,3671-11-012-2325,R110122325,OKC,410,Could not find input field
+168,3674-10-967-1075,R109671075,OKC,640,Could not find input field
+169,3681-13-076-6850,R130766850,OKC,605,Could not find input field
+170,3682-13-076-5376,R130765376,OKC,630,Could not find input field
+171,3682-13-076-6363,R130766363,OKC,455,Could not find input field
+172,3683-13-076-2493,R130762493,OKC,435,Could not find input field
+173,3683-13-076-5970,R130765970,OKC,455,Could not find input field
+174,3684-12-294-1930,R122941930,OKC,550,Could not find input field
+175,3697-13-492-0300,R134920300,OKC,1175,Could not find input field
+176,3721-17-958-2590,R179582590,VILLAGE,505,Could not find input field
+177,3726-13-160-2720,R131602720,OKC,515,Could not find input field
+178,3726-13-160-6440,R131606440,OKC,465,Could not find input field
+179,3726-13-160-9142,R131609142,OKC,250,Could not find input field
+180,3730-13-048-3635,R130483635,OKC,525,Could not find input field
+181,3858-12-048-1215,R120481215,OKC,445,Could not find input field
+182,3858-12-288-1255,R122881255,OKC,610,Could not find input field
+183,3862-10-032-2845,R100322845,OKC,495,Could not find input field
+184,3874-12-065-1005,R120651005,OKC,765,Could not find input field
+185,3882-12-637-1055,R126371055,OKC,450,Could not find input field
+186,3885-13-499-1055,R134991055,OKC,355,Could not find input field
+187,3896-12-034-1495,R120341495,OKC,455,Could not find input field
+188,3897-17-901-1200,R179011200,VILLAGE,245,Could not find input field
+189,3907-14-885-1585,R148851585,OKC,895,Could not find input field
+190,3915-14-216-1325,R142161325,OKC,1385,Could not find input field
+191,3921-17-125-5305,R171255305,OKC,490,Could not find input field
+192,3922-13-085-1665,R130851665,OKC,375,Could not find input field
+193,4107-18-531-4500,R185314500,LUTHER,1230,Could not find input field
+194,4108-18-563-3750,R185633750,LUTHER,520,Could not find input field
+195,4522-12-003-1385,R120031385,EDMOND,425,Could not find input field
+196,4655-20-041-1395,R200411395,EDMOND,430,Could not find input field
+197,4702-20-624-1150,R206241150,EDMOND,490,Could not find input field
+198,4732-12-995-1490,R129951490,OKC,570,Could not find input field
+199,4741-18-256-1228,R182561228,OKC,430,Could not find input field
+200,4743-18-270-1305,R182701305,EDMOND,645,Could not find input field
+201,4834-12-867-1450,R128671450,UNINCORPORATED,630,Could not find input field
+202,4834-12-867-1460,R128671460,UNINCORPORATED,630,Could not find input field
